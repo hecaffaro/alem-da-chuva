@@ -8,4 +8,5 @@ Tecnologias utilizadas:
 - Dart e Flutter.
  
 Execução:
+- Vá na branch master e baixe o projeto
 - Abra o projeto no seu editor de código e rode o app em um emulador android ou no navegador.
